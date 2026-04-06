@@ -1,0 +1,6 @@
+Name,Email,Age,Preferred_Mode,Avg_Daily_Study_Hours,Engagement_Level,Internet_Issue,Understanding_Rating
+John Doe,john@test.com,20,Online,5.5,7,No,8
+Jane Smith,jane@test.com,22,Offline,4.0,9,No,9
+Alex Kim,alex@test.com,19,Hybrid,3.0,5,Yes,4
+Sam Wilson,sam@test.com,21,Online,6.0,8,No,7
+Chris Lee,chris@test.com,23,Offline,7.5,10,No,10
